@@ -1,0 +1,2 @@
+# KeyPhraseEvaluationAnnotator
+Calculates statistical measures over KeyPhraseAnnotations
